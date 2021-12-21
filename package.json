@@ -1,0 +1,8 @@
+{
+  "name": "Tubie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jwkim101201/Tubie.git",
+  "author": "Kim Jioo <jwkim101201@gmail.com>",
+  "license": "MIT"
+}
