@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/jwkim101201/Tubie.git",
   "author": "Kim Jioo <jwkim101201@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn --cwd ./frontend/ start & electron ."
+  },
+  "dependencies": {
+    "electron": "^16.0.5",
+    "electron-is-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "create-react-app": "^5.0.0"
+  }
 }
